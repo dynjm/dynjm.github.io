@@ -1,3 +1,12 @@
 body {
     background-color: #1e1e1e;
 }
+
+h1 {
+    color: #8CABC9;
+}
+
+.links span {
+    text-decoration: underline;
+    color: #8CABC9;
+}
